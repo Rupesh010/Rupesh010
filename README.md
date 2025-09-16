@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rupesh.
 - 👀 I’m interested in Web/app Development and Graphic Designing.
-- 🌱 I’m currently learning Graphic designing and Web development.
+- 🌱 I’m currently learning NodeJs.
 - 💞️ I’m looking to collaborate on Designing and web projects.
 - 📫 How to reach me rupeshpatidar001@gmail.com
 <!---
